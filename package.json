@@ -1,0 +1,13 @@
+{
+  "name": "Levenstein",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fabioramefiarison/Algorothme-de-Levensthein.git",
+  "author": "fabioramefiarison <fabioramefiarison@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ava": "^ 6.1.3",
+    "js-levenshtein": "^1.1.6"
+  }
+}
